@@ -1,0 +1,46 @@
+{
+  "tareas": [
+    {
+      "id": 1,
+      "titulo": "administrar cuentas",
+      "descripcion": "cuentas de usuarios administrativos",
+      "usuario": "Matias Gonzalez"
+    },
+    {
+      "id": 2,
+      "titulo": "Tarea 2",
+      "descripcion": "descripcion tarea 1",
+      "usuario": "Matias Gonzalez"
+    },
+    {
+      "titulo": "Tarea 3",
+      "descripcion": "descripcion tarea 3",
+      "usuario": "Matias Gonzalez",
+      "id": 3
+    },
+    {
+      "titulo": "Tarea 4",
+      "descripcion": "descripcion tarea 4",
+      "usuario": "veronica",
+      "id": 4
+    },
+    {
+      "titulo": "tarea 5",
+      "descripcion": "descripcion tarea 5",
+      "usuario": "arturo",
+      "id": 5
+    },
+    {
+      "titulo": "tarea 6",
+      "descripcion": "descripcion tarea 6",
+      "usuario": "veronica",
+      "id": 6
+    },
+    {
+      "titulo": "tarea 100",
+      "descripcion": "descripcion tarea 100",
+      "usuario": "Matias Gonzalez",
+      "id": 14
+    }
+  ]
+}

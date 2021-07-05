@@ -1,0 +1,78 @@
+/** Estilos app **/
+.list {
+    text-align: left;
+    max-width: 950px;
+    margin: auto;
+}
+  
+.enviar-form {
+    max-width: 400px;
+    margin: auto;
+    padding: 5px 10px 5px 10px;
+    background: #ffffff;
+    border-radius: 10px;
+}
+
+.enviar-form h4 {
+    text-align: center;
+}
+  
+.editar-form {
+    max-width: 400px;
+    margin: auto;
+    padding: 5px 10px 5px 10px;
+    background: #ffffff;
+    border-radius: 10px;
+}
+
+.editar-form {
+    text-align: center;
+}
+
+.titulo {
+ color: #ffffff;
+ font-weight: bold;
+ text-align: center;
+}
+
+.card {
+    margin-top: 35px;
+}
+
+.mensaje {
+    background: rgb(49, 161, 58);
+    color: #ffffff;
+    border-radius: 6px;
+}
+.error  {
+ background: rgb(161, 49, 49);
+ color: #ffffff;
+ border-radius: 6px; 
+ display: flex;
+ justify-content: center;
+ font-weight: bold;
+}
+.detalles {
+    font-size: 20px;
+}
+
+label {
+    font-weight: bold;
+}
+
+button {
+    margin-top: 15px;
+    padding: 5px;
+    margin: 5px;
+}
+
+h5 {
+    text-align: center;
+}
+p {
+    font-weight:500;
+}
+
+input {
+    margin-bottom: 10px;
+}
